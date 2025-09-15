@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm YAKSHINE ANANNYA</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **GENZ APP**
-
-- 🌱 I’m currently learning **AWS**
-
 - 💬 Ask me about **Web Development, Cloud Computing**
 
 - 📫 How to reach me **yakshineanannya@gmail.com**
